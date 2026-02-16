@@ -32,7 +32,7 @@ export function Contact() {
             
             {/* Primary CTA */}
             <motion.a
-              href="mailto:hello@example.com"
+              href="https://wa.me/201002269303"
               className="inline-flex items-center gap-3 bg-accent text-cream px-8 py-4 rounded-xl hover:shadow-lg hover:shadow-accent/20 transition-all duration-300 group text-lg"
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
