@@ -5,8 +5,8 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   // Set base to your GitHub repo name for GitHub Pages deployment
-  // Change 'protofilo' to your actual repo name if different
-  base: '/protofilo/',
+  // Change 'Mohamed_Mostafa' to your actual repo name if different
+  base: '/Mohamed_Mostafa/',
   
   plugins: [
     // The React and Tailwind plugins are both required for Make, even if
